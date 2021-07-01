@@ -8,7 +8,6 @@ In order to predict the popularity of a given article, we built three machine le
 
 The goal of this project was to examine the effect that each step of preproccesing may have on the accuracy of these models, so we developed each of them before and after data preprocessing steps.
 
-As I mentioned above this was a group project. My teammates were: Matthias Ronnau, Susan Mikhail, Lokesh Nandni Sood and William Leonard.
 
 
 
